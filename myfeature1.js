@@ -8,3 +8,5 @@ export default function myfeature1() {
     </View>
   );
 }
+
+console.log("this is the change since myfeature3 got created");
